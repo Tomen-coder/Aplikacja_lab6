@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aplikacja_lab6</string>
+    <string name="action_1">Fragment 1</string>
+    <string name="action_2">Fragment 2</string>
+    <string name="action_3">Fragment 3</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="third_fragment_label">Third Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">1</string>
+    <string name="hello_second_fragment">2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_third_fragment">3</string>
+</resources>
